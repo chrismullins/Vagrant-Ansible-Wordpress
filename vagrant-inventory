@@ -1,5 +1,5 @@
 [vagrant]
-192.168.50.50
+104.236.78.139
 
 [vagrant:vars]
 vhostTemplatePath=templates/vhost.conf
